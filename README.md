@@ -1,4 +1,4 @@
-### 树莓派(Unbuntu19)安装puppeteer
+### 树莓派(Ubuntu19)安装puppeteer
 #### 安装node和npm
 sudo apt install nodejs
 sudo apt install npm
